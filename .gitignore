@@ -1,0 +1,44 @@
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.env
+.streamlit/secrets.toml
+.aws/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python environments, build output, and tool caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# Editors, local agent configuration, logs, and temporary files
+.idea/
+.vscode/
+.vs/
+.agents/
+.codex/
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*~
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#b4c6d2" stroke-width=".65"/></pattern><pattern id="windows" width="36" height="44" patternUnits="userSpaceOnUse"><rect x="8" y="8" width="18" height="25" stroke="#7895a6" stroke-width="1.3"/></pattern></defs>
+<rect width="1600" height="1000" fill="#f2f6f9"/><rect width="1600" height="1000" fill="url(#grid)" opacity=".35"/>
+<g stroke="#7895a6" stroke-width="2" opacity=".46"><path d="M0 900H1600M20 900V510L190 420V900M190 420L320 500V900M40 510L190 440M190 440L300 510M80 900V620H150V900"/><path d="M1130 900V350L1270 265L1410 350V900M1270 265V900M1130 350L1270 430L1410 350M1410 900V510L1530 450L1600 485V900"/><path d="M1000 900V630L1130 570M320 900V650L440 590V900M65 420V180H330M65 180L290 420M65 180L0 250M270 180V355M260 355H280"/><path d="M10 940H440M1120 940H1590M1450 300V105M1330 105H1580M1450 105L1540 200M1540 105V240"/></g>
+<g fill="url(#windows)" opacity=".44"><path d="M20 520L190 430V900H20Z"/><path d="M190 430L320 510V900H190Z"/><path d="M1130 360L1270 280V900H1130Z"/><path d="M1270 280L1410 360V900H1270Z"/><path d="M1410 520L1530 460V900H1410Z"/></g>
+</svg>
